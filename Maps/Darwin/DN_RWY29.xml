@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="DN_RWY29" Priority="1" Center="-12.414722+130.876667">
+    <!--YPDN-->
+    <Runway Name="11/29">
+      <Threshold Name="11" Position="-12.409403+130.865261" />
+      <Threshold Name="29" Position="-12.419228+130.894442" ExtendedCentrelineTrack="108.91" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="1" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy29 HELLI5-->
+      -122433.850+1305154.940/
+      NASUX/
+      BARNY/
+      HELLI
+    </Line>
+    <Line>
+      <!--Rwy29 JULIE5-->
+      NASUX/
+      SADAR/
+      JULIE
+    </Line>
+    <Line>
+      <!--Rwy29 LAKUP5-->
+      -122433.850+1305154.940/
+      -122350.344+1304945.880/
+      BELUN/
+      MIGIP/
+      OMUNI/
+      LAKUP
+    </Line>
+    <Line>
+      <!--Rwy29 OCTOB8-->
+      NASUX/
+      RIPMI/
+      VATPO/
+      OCTOB
+    </Line>
+    <Line>
+      <!--Rwy29 OLTAS1-->
+      BELUN/
+      OLTAS
+    </Line>
+    <Line>
+      <!--Rwy29 RUPEG2-->
+      NASUX/
+      UBGUX/
+      LEMUX/
+      BAXIB/
+      SNICK/
+      AKNUD/
+      RUPEG
+    </Line>
+    <Line>
+      <!--Rwy29 RUSKA6-->
+      MIGIP/
+      LEGUL/
+      OTGAX/
+      TEGIT/
+      ITTSA/
+      VABLI/
+      RUSKA
+    </Line>
+    <Line>
+      <!--Rwy29 VANDI7-->
+      TEGIT/
+      DUGAM/
+      AGIGA/
+      VANDI
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy29 ANUP1A-->
+      ANUPA/
+      SUDAG/
+      IDLUD/
+      EPDAM/
+      WOKKI/
+      DAKTI/
+      NEILO/
+      LAPAR
+    </Line>
+    <Line>
+      <!--Rwy29 ANUP1X-->
+    </Line>
+    <Line>
+      <!--Rwy29 GATO2A-->
+      GATOR/
+      BIDSA/
+      SARRE/
+      LAPAR
+    </Line>
+    <Line>
+      <!--Rwy29 GATO2X-->
+    </Line>
+    <Line>
+      <!--Rwy29 VEGP9A-->
+      VEGPU/
+      ITTSA/
+      SARRE
+    </Line>
+    <Line>
+      <!--Rwy29 VEGP9X-->
+    </Line>
+    <Line>
+      <!--Rwy29 WANG4A-->
+      WANGI/
+      ANONA/
+      KIGOS/
+      SUDLU/
+      KITTY/
+      NOONA/
+      SARRE
+    </Line>
+    <Line>
+      <!--Rwy29 WANG4W-->
+      ANONA/
+      KITTY
+    </Line>
+    <Line>
+      <!--Rwy29 WANG4X-->
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>LAPAR</Point>
+      <Point>KITTY</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>NASUX</Point>
+      <Point>BARNY</Point>
+      <Point>HELLI</Point>
+      <Point>SADAR</Point>
+      <Point>JULIE</Point>
+      <Point>BELUN</Point>
+      <Point>MIGIP</Point>
+      <Point>OMUNI</Point>
+      <Point>LAKUP</Point>
+      <Point>RIPMI</Point>
+      <Point>VATPO</Point>
+      <Point>OCTOB</Point>
+      <Point>OLTAS</Point>
+      <Point>UBGUX</Point>
+      <Point>LEMUX</Point>
+      <Point>BAXIB</Point>
+      <Point>SNICK</Point>
+      <Point>AKNUD</Point>
+      <Point>RUPEG</Point>
+      <Point>LEGUL</Point>
+      <Point>OTGAX</Point>
+      <Point>TEGIT</Point>
+      <Point>ITTSA</Point>
+      <Point>VABLI</Point>
+      <Point>RUSKA</Point>
+      <Point>DUGAM</Point>
+      <Point>AGIGA</Point>
+      <Point>VANDI</Point>
+      <Point>ANUPA</Point>
+      <Point>SUDAG</Point>
+      <Point>IDLUD</Point>
+      <Point>EPDAM</Point>
+      <Point>WOKKI</Point>
+      <Point>DAKTI</Point>
+      <Point>NEILO</Point>
+      <Point>GATOR</Point>
+      <Point>BIDSA</Point>
+      <Point>SARRE</Point>
+      <Point>VEGPU</Point>
+      <Point>WANGI</Point>
+      <Point>ANONA</Point>
+      <Point>KIGOS</Point>
+      <Point>SUDLU</Point>
+      <Point>NOONA</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="DN_RWY29_NAMES" Priority="2" Center="-12.414722+130.876667">
+    <Label>
+      <Point>NASUX</Point>
+      <Point>BARNY</Point>
+      <Point>HELLI</Point>
+      <Point>SADAR</Point>
+      <Point>JULIE</Point>
+      <Point>BELUN</Point>
+      <Point>MIGIP</Point>
+      <Point>OMUNI</Point>
+      <Point>LAKUP</Point>
+      <Point>RIPMI</Point>
+      <Point>VATPO</Point>
+      <Point>OCTOB</Point>
+      <Point>OLTAS</Point>
+      <Point>UBGUX</Point>
+      <Point>LEMUX</Point>
+      <Point>BAXIB</Point>
+      <Point>SNICK</Point>
+      <Point>AKNUD</Point>
+      <Point>RUPEG</Point>
+      <Point>LEGUL</Point>
+      <Point>OTGAX</Point>
+      <Point>TEGIT</Point>
+      <Point>ITTSA</Point>
+      <Point>VABLI</Point>
+      <Point>RUSKA</Point>
+      <Point>DUGAM</Point>
+      <Point>AGIGA</Point>
+      <Point>VANDI</Point>
+      <Point>ANUPA</Point>
+      <Point>SUDAG</Point>
+      <Point>IDLUD</Point>
+      <Point>EPDAM</Point>
+      <Point>WOKKI</Point>
+      <Point>DAKTI</Point>
+      <Point>NEILO</Point>
+      <Point>LAPAR</Point>
+      <Point>GATOR</Point>
+      <Point>BIDSA</Point>
+      <Point>SARRE</Point>
+      <Point>VEGPU</Point>
+      <Point>WANGI</Point>
+      <Point>ANONA</Point>
+      <Point>KIGOS</Point>
+      <Point>SUDLU</Point>
+      <Point>KITTY</Point>
+      <Point>NOONA</Point>
+      <Point>BELKI</Point>
+      <Point>ZAARS</Point>
+      <Point>BUTPA</Point>
+      <Point>ADKUL</Point>
+      <Point>MASRA</Point>
+      <Point>IGOPO</Point>
+      <Point>PAGMI</Point>
+      <Point>DUKEP</Point>
+      <Point>NOKUN</Point>
+      <Point>SOCAR</Point>
+      <Point>KU VOR</Point>
+      <Point>JULUP</Point>
+      <Point>TUSTU</Point>
+      <Point>IBOMU</Point>
+      <Point>IRPOM</Point>
+      <Point>SUNPO</Point>
+      <Point>ANGED</Point>
+      <Point>TN VOR</Point>
+      <Point>BONES</Point>
+      <Point>LARAB</Point>
+      <Point>JACKI</Point>
+      <Point>AVMAN</Point>
+      <Point>NOLEK</Point>
+      <Point>STOES</Point>
+      <Point>ALLEE</Point>
+      <Point>HODDA</Point>
+      <Point>DOSBO</Point>
+      <Point>NUBKO</Point>
+      <Point>NAILA</Point>
+      <Point>EGUMI</Point>
+      <Point>LEVRI</Point>
+      <Point>OPUDA</Point>
+      <Point>TRUKA</Point>
+      <Point>WOOFA</Point>
+      <Point>MGD NDB</Point>
+      <Point>SAKEN</Point>
+      <Point>DUMPA</Point>
+      <Point>KIBET</Point>
+      <Point>DAGAK</Point>
+      <Point>OVMIS</Point>
+      <Point>NUTTA</Point>
+      <Point>JOSHU</Point>
+      <Point>MILEM</Point>
+      <Point>IKASO</Point>
+      <Point>GUSNU</Point>
+      <Point>BEDUG</Point>
+      <Point>ENPUD</Point>
+      <Point>ACKER</Point>
+      <Point>PUNOT</Point>
+      <Point>ADKIV</Point>
+      <Point>OPEKO</Point>
+      <Point>BEBUX</Point>
+      <Point>JULES</Point>
+      <Point>MOTRU</Point>
+    </Label>
+  </Map>
+</Maps>

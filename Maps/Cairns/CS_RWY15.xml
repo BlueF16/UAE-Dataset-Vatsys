@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="CS_RWY15" Priority="1" Center="-16.885833+145.755278">
+    <!--YBCS-->
+    <Runway Name="15/33">
+      <Threshold Name="15" Position="-16.865817+145.743569" ExtendedCentrelineTrack="336.48" ExtendedCentrelineLength="18" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="33" Position="-16.891969+145.755392" />
+    </Runway>
+    <!--SIDs-->
+    <Line>
+      <!--Rwy15 AKROM1-->
+      -165331.090+1454519.410/
+      -165327.661+1454518.284/
+      -165354.742+1454544.587/
+      -165403.879+1454629.925/
+      -165332.966+1454732.784/
+      -165245.855+1454819.929/
+      -165132.647+1454922.428/
+      -165045.414+1455013.772/
+      -165020.404+1455118.667/
+      -165008.192+1455226.955/
+      -165012.387+1455334.797/
+      -165044.907+1455433.462/
+      -165138.463+1455511.699/
+      AKROM
+    </Line>
+    <Line>
+      <!--Rwy15 NONUM1-->
+      -165331.090+1454519.410/
+      -165316.773+1454517.597/
+      -165328.436+1454555.649/
+      -165309.609+1454636.856/
+      -165232.712+1454709.651/
+      -165135.466+1454752.070/
+      -165040.441+1454831.619/
+      -164914.706+1454847.139/
+      -164823.000+1454800.825/
+      -164816.486+1454629.285/
+      -164853.158+1454531.930/
+      CS VOR/
+      NONUM
+    </Line>
+    <!--STARs-->
+    <Line>
+      <!--Rwy15 CODI8A.ANDOP-->
+      ANDOP/
+      CODIE
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8A.AVDAN-->
+      AVDAN/
+      CODIE
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8A.LOCKA-->
+      LOCKA/
+      CODIE
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8A.OVLET-->
+      OVLET/
+      CODIE
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8A.PUNIT-->
+      PUNIT/
+      CODIE
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8A.ZANEY-->
+      ZANEY/
+      CODIE
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8A-->
+      CODIE/
+      GUNRO
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8X.ANDOP-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8X.AVDAN-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8X.LOCKA-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8X.OVLET-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8X.PUNIT-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8X.ZANEY-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8X-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8Z.ANDOP-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8Z.AVDAN-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8Z.LOCKA-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8Z.OVLET-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8Z.PUNIT-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8Z.ZANEY-->
+    </Line>
+    <Line>
+      <!--Rwy15 CODI8Z-->
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6B.ANDOP-->
+      ANDOP/
+      SURUR/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6B.AVDAN-->
+      AVDAN/
+      DORKO/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6B.LOCKA-->
+      LOCKA/
+      RUVOT/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6B.OVLET-->
+      OVLET/
+      IGMOL/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6B.PUNIT-->
+      PUNIT/
+      AKOGU/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6B.ZANEY-->
+      ZANEY/
+      APAGU/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6B-->
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6V.ANDOP-->
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6V.AVDAN-->
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6V.LOCKA-->
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6V.OVLET-->
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6V.PUNIT-->
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6V.ZANEY-->
+    </Line>
+    <Line>
+      <!--Rwy15 KASP6V-->
+      KASPI/
+      BENJI
+    </Line>
+    <Line>
+      <!--Rwy15 NONU4A-->
+      NONUM/
+      RAINY
+    </Line>
+    <Line>
+      <!--Rwy15 NONU4B-->
+      RAINY/
+      -164059.326+1453258.024/
+      -164003.225+1453355.363/
+      -163912.118+1453457.579/
+      -163826.393+1453604.198/
+      -163746.401+1453714.715/
+      -163712.442+1453828.594/
+      -163644.774+1453945.274/
+      -163623.606+1454104.174/
+      -163609.102+1454224.695/
+      -163601.368+1454346.225/
+      -163600.464+1454508.150/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 NONU4V-->
+    </Line>
+    <Line>
+      <!--Rwy15 NONU4W-->
+      NONUM/
+      EPGAG
+    </Line>
+    <Line>
+      <!--Rwy15 NONU4Z-->
+      RAINY/
+      PULAX
+    </Line>
+    <Line>
+      <!--Rwy15 UPOL9A-->
+      UPOLO/
+      BERSI/
+      KASPI
+    </Line>
+    <Line>
+      <!--Rwy15 UPOL9B-->
+    </Line>
+    <Line>
+      <!--Rwy15 UPOL9V-->
+    </Line>
+    <Line>
+      <!--Rwy15 UPOL9X-->
+      UPOLO/
+      FOGGI/
+      TODEG
+    </Line>
+    <Line>
+      <!--Rwy15 UPOL9Z-->
+      KASPI/
+      ATOSU
+    </Line>
+    <Symbol Type="HollowTriangle">
+      <Point>GUNRO</Point>
+      <Point>KASPI</Point>
+      <Point>BENJI</Point>
+      <Point>RAINY</Point>
+      <Point>EPGAG</Point>
+      <Point>PULAX</Point>
+      <Point>TODEG</Point>
+      <Point>ATOSU</Point>
+    </Symbol>
+    <Symbol Type="Circle">
+      <Point>CS VOR</Point>
+    </Symbol>
+    <Symbol Type="HollowStar">
+      <Point>AKROM</Point>
+      <Point>NONUM</Point>
+      <Point>ANDOP</Point>
+      <Point>CODIE</Point>
+      <Point>AVDAN</Point>
+      <Point>LOCKA</Point>
+      <Point>OVLET</Point>
+      <Point>PUNIT</Point>
+      <Point>ZANEY</Point>
+      <Point>SURUR</Point>
+      <Point>DORKO</Point>
+      <Point>RUVOT</Point>
+      <Point>IGMOL</Point>
+      <Point>AKOGU</Point>
+      <Point>APAGU</Point>
+      <Point>UPOLO</Point>
+      <Point>BERSI</Point>
+      <Point>FOGGI</Point>
+    </Symbol>
+    <!--(CS) RWY15 Airspace-->
+    <Line Name="(CS) RWY15" Width="1.7" Pattern="Dotted">
+      -172203.720+1460325.244/-171433.000+1455804.000/-171003.000+1455723.000/-170552.000+1455453.000/-170357.000+1455244.000/-165942.000+1455351.000/-165254.000+1454503.000/-161956.050+1452557.227
+    </Line>
+    <Label HasLeader="false" Alignment="Center" VerticalAlignment="Middle">
+      <!--(CS) RWY15 Labels-->
+      <Point Name="APP CLL-180">-16.484167+146.055833</Point>
+      <Point Name="DEP">-17.101111+145.369444</Point>
+      <Point Name="DEP BLW CLL">-16.619167+146.167222</Point>
+    </Label>
+  </Map>
+  <Map Type="System" Name="CS_RWY15_NAMES" Priority="2" Center="-16.885833+145.755278">
+    <Label>
+      <Point>AKROM</Point>
+      <Point>CS VOR</Point>
+      <Point>NONUM</Point>
+      <Point>ANDOP</Point>
+      <Point>CODIE</Point>
+      <Point>AVDAN</Point>
+      <Point>LOCKA</Point>
+      <Point>OVLET</Point>
+      <Point>PUNIT</Point>
+      <Point>ZANEY</Point>
+      <Point>GUNRO</Point>
+      <Point>SURUR</Point>
+      <Point>KASPI</Point>
+      <Point>DORKO</Point>
+      <Point>RUVOT</Point>
+      <Point>IGMOL</Point>
+      <Point>AKOGU</Point>
+      <Point>APAGU</Point>
+      <Point>BENJI</Point>
+      <Point>RAINY</Point>
+      <Point>EPGAG</Point>
+      <Point>PULAX</Point>
+      <Point>UPOLO</Point>
+      <Point>BERSI</Point>
+      <Point>FOGGI</Point>
+      <Point>TODEG</Point>
+      <Point>ATOSU</Point>
+      <Point>MEMIG</Point>
+      <Point>MEMOS</Point>
+      <Point>NONIR</Point>
+      <Point>DOTOD</Point>
+      <Point>GULOP</Point>
+      <Point>ANDEE</Point>
+      <Point>ONARA</Point>
+      <Point>VEKBI</Point>
+      <Point>MUSEY</Point>
+      <Point>KOOKA</Point>
+      <Point>RUMKA</Point>
+      <Point>BARIA</Point>
+      <Point>KIMMI</Point>
+      <Point>PUPEB</Point>
+      <Point>OLSIN</Point>
+      <Point>IGIKI</Point>
+      <Point>IBUXI</Point>
+      <Point>BINUN</Point>
+      <Point>TL VOR</Point>
+      <Point>WALTA</Point>
+      <Point>ALBUX</Point>
+      <Point>PAWSO</Point>
+      <Point>BITAS</Point>
+      <Point>POROB</Point>
+      <Point>ADLAG</Point>
+      <Point>PEWEE</Point>
+      <Point>VEVAV</Point>
+      <Point>ELNOT</Point>
+      <Point>DAMIL</Point>
+      <Point>TAMED</Point>
+      <Point>COE NDB</Point>
+      <Point>BENTA</Point>
+      <Point>GUPDA</Point>
+      <Point>BODAP</Point>
+      <Point>IDETU</Point>
+      <Point>RUMGI</Point>
+    </Label>
+  </Map>
+</Maps>
