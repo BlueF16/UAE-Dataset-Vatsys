@@ -2,7 +2,6 @@
 <Airspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <SystemRunways>
     <Airports>
-    <Airports>
       <Airport Name="OMAA">
         <Runway Name="13L" DataRunway="13L">
           <SID Name="ATUD5F" />
